@@ -1,4 +1,9 @@
-# Features
+# Description
+Next.js React with MUI Material UI Front End components for Zigbee 2 MQTT Home Heating Light sound Control and Grafana dashboards
+
+repo for raspberry pi services : https://github.com/HomeSmartMesh/raspi
+# Gif demo
+![demo](home-next.gif)
 ## Running
 - sonos switch on/off
 ## Plan
